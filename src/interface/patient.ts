@@ -7,5 +7,5 @@ export interface Patient{
     diagnosis: string,
     phone: string,
     status: string,
-    imageUrl: string
+    image_url: string
 }
